@@ -5,5 +5,4 @@ document.querySelector('.skills-container').onmousemove = e => {
   
     e.target.style.setProperty('--x', `${x}px`);
     e.target.style.setProperty('--y', `${y}px`);
-  
   };
