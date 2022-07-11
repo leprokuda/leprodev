@@ -147,7 +147,7 @@ html {
 
 /* Hero */
 .hero {
-    background: url('/src/img/hero2.jpeg') left center no-repeat;
+    background: url('../img/hero2.jpeg') left center no-repeat;
     background-size: cover;
     /*  padding-bottom: 400px; */
     /* padding-top: 200px; */
@@ -198,7 +198,7 @@ html {
     width: 50px;
     height: 50px;
     margin-right: 13px;
-    background: url(/src/img/order.png) center center no-repeat transparent;
+    background: url(../img/order.png) center center no-repeat transparent;
     background-size: contain;
     text-align: top;
 }
@@ -414,15 +414,15 @@ html {
 }
 
 .contacts__icon-tg {
-    background-image: url(/src/img/tg.png);
+    background-image: url(../img/tg.png);
 }
 
 .contacts__icon-phone {
-    background-image: url(/src/img/phone.png);
+    background-image: url(../img/phone.png);
 }
 
 .contacts__icon-mail {
-    background-image: url(/src/img/mail.png);
+    background-image: url(../img/mail.png);
 }
 
 /* FeedBack */
@@ -559,15 +559,15 @@ html {
 }
 
 .footer__social-icon-github {
-    background-image: url(/src/img/github.svg);
+    background-image: url(../img/github.svg);
 }
 
 .footer__social-icon-instagram {
-    background-image: url(/src/img/instagram.svg);
+    background-image: url(../img/instagram.svg);
 }
 
 .footer__social-icon-vk {
-    background-image: url(/src/img/vk.svg);
+    background-image: url(../img/vk.svg);
 }
 
 
@@ -694,7 +694,7 @@ html {
     }
 
     .hero {
-        background: url('./src/img/hero2.jpeg') center center no-repeat;
+        background: url('.../img/hero2.jpeg') center center no-repeat;
         background-size: auto;
     }
 
@@ -939,7 +939,7 @@ html {
     }
 
     .hero {
-        background: url('./src/img/hero2.jpeg') left center no-repeat;
+        background: url('.../img/hero2.jpeg') left center no-repeat;
         background-size: cover;
     }
 
